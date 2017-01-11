@@ -1,0 +1,21 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="File '.../web/themes/custom/flow/templates/content/node--internal-banner--full.html.twig - [Samvirke D8]'" />
+    <option name="defaultScopeName" value="File '.../web/themes/custom/flow/templates/content/node--internal-banner--full.html.twig - [Samvirke D8]'" />
+    <option name="SEARCH_SCOPE" value="File '.../web/themes/custom/flow/templates/content/node--internal-banner--full.html.twig - [Samvirke D8]'" />
+    <option name="FILE_MASK" value="*.twig" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.java</mask>
+      <mask>*.js</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>*.php</mask>
+      <mask>*.twig</mask>
+    </recentFileMasks>
+  </component>
+</application>
