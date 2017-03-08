@@ -7,7 +7,6 @@
       <mapping ext="install" type="PHP" />
       <mapping ext="theme" type="PHP" />
       <mapping ext="info" type="PLAIN_TEXT" />
-      <mapping ext="zsh" type="PLAIN_TEXT" />
       <mapping ext="scss¨" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
