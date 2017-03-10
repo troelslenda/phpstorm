@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="File '.../web/themes/custom/flow/templates/content/node--internal-banner--full.html.twig - [Samvirke D8]'" />
     <option name="defaultScopeName" value="File '.../web/themes/custom/flow/templates/content/node--internal-banner--full.html.twig - [Samvirke D8]'" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="File '.../web/themes/custom/flow/templates/content/node--internal-banner--full.html.twig - [Samvirke D8]'" />
     <recentFileMasks>
       <mask>*.properties</mask>
