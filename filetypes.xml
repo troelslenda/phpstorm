@@ -8,6 +8,7 @@
       <mapping ext="install" type="PHP" />
       <mapping ext="theme" type="PHP" />
       <mapping ext="scss¨" type="PLAIN_TEXT" />
+      <mapping ext="gz" type="SQL" />
     </extensionMap>
   </component>
 </application>
