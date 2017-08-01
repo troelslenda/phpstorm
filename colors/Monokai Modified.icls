@@ -1,11 +1,11 @@
-<scheme name="_@user_Monokai" version="142" parent_scheme="Darcula">
+<scheme name="Monokai Modified" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2017-01-11T09:30:09</property>
+    <property name="created">2017-08-01T08:52:15</property>
     <property name="ide">PhpStorm</property>
-    <property name="ideVersion">2016.3.2.0.0</property>
+    <property name="ideVersion">2017.2.0.0</property>
     <property name="modified">2017-08-01T08:53:29</property>
-    <property name="originalScheme">Monokai</property>
+    <property name="originalScheme">_@user_Monokai</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="18" />
@@ -18,7 +18,7 @@
     <option name="CONSOLE_BACKGROUND_KEY" value="272822" />
     <option name="GUTTER_BACKGROUND" value="272822" />
     <option name="INDENT_GUIDE" value="3b3a32" />
-    <option name="LINE_NUMBERS_COLOR" value="f8f8f2" />
+    <option name="LINE_NUMBERS_COLOR" value="878783" />
     <option name="SELECTED_INDENT_GUIDE" value="3b3a32" />
     <option name="SELECTION_BACKGROUND" value="49483e" />
     <option name="WHITESPACES" value="3b3a32" />
