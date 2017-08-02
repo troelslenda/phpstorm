@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '.../bankhub/storage/bank/in/nordea_test/PAIN002.20170802090353749.xml - [obviux]'" />
+    <option name="defaultScopeName" value="File '.../bankhub/storage/bank/in/nordea_test/PAIN002.20170802090353749.xml - [obviux]'" />
+    <option name="SEARCH_SCOPE" value="File '.../bankhub/storage/bank/in/nordea_test/PAIN002.20170802090353749.xml - [obviux]'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>

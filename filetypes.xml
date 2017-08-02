@@ -13,11 +13,13 @@
       <mapping ext="zsh" type="PLAIN_TEXT" />
       <mapping ext="base64" type="PLAIN_TEXT" />
       <mapping ext="scss¨" type="PLAIN_TEXT" />
+      <mapping ext="20170802090353749" type="PLAIN_TEXT" />
       <mapping ext="dockerfile" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="gpg" type="PLAIN_TEXT" />
       <mapping ext="000001" type="PLAIN_TEXT" />
       <mapping ext="gz" type="SQL" />
+      <mapping ext="20170802085022871" type="XML" />
     </extensionMap>
   </component>
 </application>
