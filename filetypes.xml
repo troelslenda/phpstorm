@@ -9,6 +9,7 @@
       <mapping ext="theme" type="PHP" />
       <mapping pattern="NordeaPullphp" type="PLAIN_TEXT" />
       <mapping pattern="ConfigServiceProvider" type="PLAIN_TEXT" />
+      <mapping pattern="ressources" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping ext="zsh" type="PLAIN_TEXT" />
       <mapping ext="base64" type="PLAIN_TEXT" />
