@@ -12,6 +12,7 @@
       <mapping pattern="ressources" type="PLAIN_TEXT" />
       <mapping pattern="laravel-env" type="PLAIN_TEXT" />
       <mapping pattern=".laravel-env" type="PLAIN_TEXT" />
+      <mapping pattern=".travis-env" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping ext="20170809115505534" type="PLAIN_TEXT" />
       <mapping ext="zsh" type="PLAIN_TEXT" />
