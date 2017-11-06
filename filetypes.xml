@@ -26,6 +26,7 @@
       <mapping ext="scss¨" type="PLAIN_TEXT" />
       <mapping ext="20170802090353749" type="PLAIN_TEXT" />
       <mapping ext="dockerfile" type="PLAIN_TEXT" />
+      <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="gpg" type="PLAIN_TEXT" />
       <mapping ext="000001" type="PLAIN_TEXT" />
