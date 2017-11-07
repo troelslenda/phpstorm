@@ -1,36 +1,35 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="rules" type="ECMAScript 6" />
       <mapping ext="info" type="Ini" />
       <mapping ext="profile" type="PHP" />
-      <mapping ext="engine" type="PHP" />
       <mapping ext="test" type="PHP" />
-      <mapping ext="install" type="PHP" />
+      <mapping ext="engine" type="PHP" />
       <mapping ext="theme" type="PHP" />
-      <mapping pattern="CNAME" type="PLAIN_TEXT" />
+      <mapping ext="install" type="PHP" />
+      <mapping pattern="ConfigServiceProvider" type="PLAIN_TEXT" />
+      <mapping pattern=".laravel-env" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
-      <mapping pattern=".jekyll-metadata" type="PLAIN_TEXT" />
-      <mapping pattern="Gemfile" type="PLAIN_TEXT" />
       <mapping pattern="ressources" type="PLAIN_TEXT" />
       <mapping pattern=".travis-env" type="PLAIN_TEXT" />
-      <mapping pattern="BrandsController" type="PLAIN_TEXT" />
-      <mapping pattern=".laravel-env" type="PLAIN_TEXT" />
-      <mapping pattern="ConfigServiceProvider" type="PLAIN_TEXT" />
+      <mapping pattern="Gemfile" type="PLAIN_TEXT" />
+      <mapping pattern=".jekyll-metadata" type="PLAIN_TEXT" />
       <mapping pattern="NordeaPullphp" type="PLAIN_TEXT" />
-      <mapping pattern="laravel-env" type="PLAIN_TEXT" />
       <mapping pattern="token" type="PLAIN_TEXT" />
-      <mapping ext="sketch" type="PLAIN_TEXT" />
-      <mapping ext="20170809115505534" type="PLAIN_TEXT" />
-      <mapping ext="zsh" type="PLAIN_TEXT" />
-      <mapping ext="base64" type="PLAIN_TEXT" />
-      <mapping ext="scss¨" type="PLAIN_TEXT" />
+      <mapping pattern="BrandsController" type="PLAIN_TEXT" />
+      <mapping pattern="laravel-env" type="PLAIN_TEXT" />
+      <mapping pattern="CNAME" type="PLAIN_TEXT" />
       <mapping ext="20170802090353749" type="PLAIN_TEXT" />
-      <mapping ext="dockerfile" type="PLAIN_TEXT" />
-      <mapping ext="lock" type="PLAIN_TEXT" />
-      <mapping ext="key" type="PLAIN_TEXT" />
+      <mapping ext="base64" type="PLAIN_TEXT" />
       <mapping ext="gpg" type="PLAIN_TEXT" />
+      <mapping ext="20170809115505534" type="PLAIN_TEXT" />
+      <mapping ext="sketch" type="PLAIN_TEXT" />
+      <mapping ext="dockerfile" type="PLAIN_TEXT" />
       <mapping ext="000001" type="PLAIN_TEXT" />
+      <mapping ext="scss¨" type="PLAIN_TEXT" />
+      <mapping ext="zsh" type="PLAIN_TEXT" />
+      <mapping ext="key" type="PLAIN_TEXT" />
+      <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="gz" type="SQL" />
       <mapping ext="20170802085022871" type="XML" />
     </extensionMap>
