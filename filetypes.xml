@@ -1,7 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="js" type="ECMAScript 6" />
       <mapping ext="info" type="Ini" />
+      <removed_mapping ext="js" approved="true" type="JavaScript" />
       <mapping ext="profile" type="PHP" />
       <mapping ext="test" type="PHP" />
       <mapping ext="engine" type="PHP" />
